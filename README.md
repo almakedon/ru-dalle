@@ -28,6 +28,10 @@ ruDALL-E Kandinsky (XXL) (soon)
 **Finetuning example**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tb7J4PvvegWOybPfUubl5O7m5I24CBg5?usp=sharing)
 
+**Super super-resolution DEmo**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pollinations/hive/blob/main/notebooks/6%20Image-To-Image/1%20ruRealESRGAN%20Super-Resolution.ipynb)
+
+
 ### generation by ruDALLE:
 ```python
 import ruclip
